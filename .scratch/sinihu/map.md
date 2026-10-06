@@ -17,6 +17,7 @@ An implementation-ready product and architecture specification for SiNiHu's firs
 <!-- Closed child tickets are indexed here; the decision detail lives only in each ticket. -->
 
 - [Image Generation Provider Capabilities](issues/13-image-generation-provider-capabilities.md): Azure and OpenAI document image APIs; generic compatible endpoints require capability validation, and Copilot SDK has no documented native generation endpoint.
+- [First Admin and Invitations](issues/01-first-admin-and-invitations.md): bootstrap, invitation, sign-in identity linking, account recovery and removal policies are specified, including the boundary around browser-local deck data.
 
 ## Not yet specified
 

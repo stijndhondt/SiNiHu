@@ -8,6 +8,26 @@ SiNiHu is a household slide-deck authoring and presentation application. This gl
 A person's identity in SiNiHu, associated with one or more sign-in methods and owning that person's projects and provider connections.
 _Avoid_: Login, profile
 
+**Sign-in identity**:
+An identity from an external provider, such as Microsoft, GitHub, or Google, that a person uses to authenticate to a SiNiHu Account.
+_Avoid_: Provider connection
+
+**Invitation**:
+A single-use authorization for a person to create a SiNiHu Account, bound to a verified email address and issued by an admin.
+_Avoid_: Invite link
+
+**Bootstrap code**:
+A one-time code used to establish the first admin Account in a SiNiHu deployment.
+_Avoid_: Setup password
+
+**Account deactivation**:
+A reversible suspension of an Account that disables access while preserving the Account and its linked sign-in identities.
+_Avoid_: Account deletion
+
+**Account deletion**:
+The irreversible removal of a SiNiHu Account and its server-managed identity and session data.
+_Avoid_: Deactivation
+
 **Provider connection**:
 A user's authorization or configuration for using an AI provider, such as GitHub Copilot or a BYOK model service.
 _Avoid_: License, API key (unless referring specifically to the secret)
