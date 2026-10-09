@@ -1,0 +1,468 @@
+{
+    "data": {
+        "theme": {
+            "id": "c6gfwd0pduxqt5e",
+            "workspaceId": "rg3za72n0aqixky",
+            "name": "sage",
+            "headingFont": "Kanit",
+            "headingFontWeight": 300,
+            "bodyFont": "Martel Sans",
+            "bodyFontWeight": 400,
+            "accentColor": "#437066",
+            "logoUrl": null,
+            "config": {
+                "keywords": {
+                    "tone": [
+                        "serious",
+                        "corporate",
+                        "formal",
+                        "professional",
+                        "friendly",
+                        "minimalist",
+                        "clean",
+                        "simple",
+                        "soft",
+                        "modern",
+                        "classic",
+                        "fresh"
+                    ],
+                    "color": [
+                        "light",
+                        "beige",
+                        "white",
+                        "green",
+                        "sage",
+                        "forest green",
+                        "pastel green",
+                        "pastel",
+                        "cool"
+                    ]
+                },
+                "bodyColor": "#2C3249",
+                "themeBase": "default",
+                "background": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#EBF4F3"
+                    },
+                    "image": {},
+                    "source": "color.solid"
+                },
+                "stylePrompt": "Simple and modern with a professional and friendly tone, using colors like sage and pastel green to create a soft and clean aesthetic.",
+                "headingColor": "#272D45",
+                "cardBackground": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#FFFFFF"
+                    }
+                },
+                "accentBackgrounds": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-02_a976bbfc.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-02_a976bbfc.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "a976bbfc",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-03_8ff82547.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-03_8ff82547.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "8ff82547",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-04_316f7778.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-04_316f7778.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "316f7778",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-05_d320daea.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-05_d320daea.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "d320daea",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-06_b48eb3ee.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-06_b48eb3ee.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "b48eb3ee",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-07_39460dd8.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-07_39460dd8.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "39460dd8",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-08_3b40bfda.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-08_3b40bfda.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "3b40bfda",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-09_b30f74ac.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-09_b30f74ac.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "b30f74ac",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-10_1f86e245.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-10_1f86e245.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "1f86e245",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-11_958ec2d3.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-11_958ec2d3.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "958ec2d3",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-12_9514631f.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-12_9514631f.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "9514631f",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-13_da57d423.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-13_da57d423.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "da57d423",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-14_b5b0b287.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-14_b5b0b287.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "b5b0b287",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-15_91994aad.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-15_91994aad.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "91994aad",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-16_0a187aec.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-16_0a187aec.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "0a187aec",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-17_38b2bec7.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-17_38b2bec7.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "38b2bec7",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-18_90d3ca24.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-18_90d3ca24.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "90d3ca24",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-19_82b848e5.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-19_82b848e5.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "82b848e5",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-20_1813a312.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-20_1813a312.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "1813a312",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-21_98ef9584.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-21_98ef9584.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "98ef9584",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-22_8fe242c9.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-22_8fe242c9.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "8fe242c9",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-23_9263c0ac.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-23_9263c0ac.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "9263c0ac",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-24_12906ebd.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-24_12906ebd.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "12906ebd",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-25_a500ed4c.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-25_a500ed4c.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "a500ed4c",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/sage/sage-26_e5a68945.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "sage-26_e5a68945.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "e5a68945",
+                        "originalSource": "image.custom"
+                    }
+                ]
+            },
+            "priority": 340,
+            "previewUrl": "https://assets.api.gamma.app/themes/preview/v1/c6gfwd0pduxqt5e/e7129e018a911ec30980aa90c2b03432372680d5",
+            "archived": false,
+            "createdTime": "2026-10-09T19:20:11.392Z",
+            "updatedTime": "2026-10-09T19:20:11.392Z",
+            "fonts": [
+                {
+                    "id": "Kanit",
+                    "name": "Kanit",
+                    "url": "https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap",
+                    "__typename": "ThemeFont"
+                },
+                {
+                    "id": "Martel Sans",
+                    "name": "Martel Sans",
+                    "url": "https://fonts.googleapis.com/css2?family=Martel%20Sans:wght@200;300;400;600;700;800;900&display=swap",
+                    "__typename": "ThemeFont"
+                }
+            ],
+            "__typename": "Theme",
+            "createdBy": {
+                "id": "4qcdcxebu5k957i",
+                "displayName": "Stijn Dhondt",
+                "email": "stijndhondt@gmail.com",
+                "profileImageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKuzyompOK2we9nVKDYwSdWwaZ3PuItY6EQQx2X3hdGiDQ4Kw=s96-c",
+                "__typename": "User"
+            },
+            "docCount": 0,
+            "siteCount": 0
+        }
+    }
+}

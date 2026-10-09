@@ -1,0 +1,1125 @@
+{
+    "data": {
+        "theme": {
+            "id": "h3h9jmow61m00a8",
+            "workspaceId": "rg3za72n0aqixky",
+            "name": "Nebulae",
+            "headingFont": "Sora",
+            "headingFontWeight": 500,
+            "bodyFont": "Noto Sans",
+            "bodyFontWeight": 400,
+            "accentColor": "#B380FF",
+            "logoUrl": null,
+            "config": {
+                "keywords": {
+                    "tone": [
+                        "Friendly",
+                        "playful",
+                        "bold",
+                        "loud",
+                        "modern",
+                        "high tech",
+                        "futuristic",
+                        "fresh",
+                        "creative"
+                    ],
+                    "color": [
+                        "dark",
+                        "black",
+                        "gradient",
+                        "blue",
+                        "purple",
+                        "navy blue",
+                        "royal blue",
+                        "aurora borealis",
+                        "vibrant",
+                        "colorful",
+                        "contrast"
+                    ]
+                },
+                "bodyColor": "#E0D6DE",
+                "themeBase": "finesse",
+                "background": {
+                    "type": "image",
+                    "color": {
+                        "hex": "#13131A"
+                    },
+                    "image": {
+                        "src": "https://cdn.gamma.app/rg3za72n0aqixky/850811559c97448ea65b44195bbd69b2/original/blue-purpos.png",
+                        "meta": {
+                            "width": 2225,
+                            "height": 1582,
+                            "colorspace": "sRGB",
+                            "frame_count": 1,
+                            "aspect_ratio": 1.406,
+                            "average_color": "#1c1037",
+                            "has_transparency": false,
+                            "date_file_created": "2023/11/21 19:02:41 GMT",
+                            "has_clipping_path": false,
+                            "date_file_modified": "2023/11/21 19:08:18 GMT"
+                        },
+                        "name": "blue purpos.png",
+                        "source": "image.custom",
+                        "uploadStatus": 0,
+                        "showPlaceholder": false,
+                        "uploadResultStep": "optimized"
+                    },
+                    "source": "image.custom",
+                    "gradient": {
+                        "css": {
+                            "backgroundImage": "radial-gradient(circle at 0% 0%, #0b28ff80 0, #0b28ff00 50%),radial-gradient(circle at 14.72257432152649% 47.08386148228974%, #7182ff80 0, #7182ff00 82.36128716076325%),radial-gradient(circle at 29.44514864305298% 44.16772296457948%, #d7dcff80 0, #d7dcff00 64.7225743215265%),linear-gradient(0deg, #0b28ff80 0%, #0b28ff80 100%)"
+                        },
+                        "vibe": "mono",
+                        "primaryColor": "#0b28ff"
+                    }
+                },
+                "stylePrompt": "Playful and creative, bold and loud with a futuristic touch, using a gradient of vibrant colors including blue, purple, and royal blue.",
+                "headingColor": "#B380FF",
+                "accentGradient": {
+                    "angle": 143,
+                    "colors": [
+                        "#B380FF",
+                        "#7AF0FF"
+                    ]
+                },
+                "cardBackground": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#07070C"
+                    }
+                },
+                "headingGradient": {
+                    "angle": 134,
+                    "colors": [
+                        "#B380FF",
+                        "#7AF0FF"
+                    ]
+                },
+                "accentBackgrounds": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/c0dbb39db54d4a79af0e0ce2d696437d/original/Nebula---1.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0f244b",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:40 GMT"
+                            },
+                            "name": "Nebula - 1.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "UXZVpOgWEBbX-R92EOVO-",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/58fd550fb92d4c02aa8b5511ba2965fd/original/Nebula---2.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0e1837",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 2.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "fVxeeA93uCDjc3ELmq8Bu",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/bbb5c4dbc42e4a769cb048aefc4ffa5a/original/Nebula---3.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#112a50",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:29 GMT"
+                            },
+                            "name": "Nebula - 3.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "FYUsQdQjJPturunjrk2_I",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/05abaea6247c4c7a9d261f2a1cff2ede/original/Nebula---4.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1e355a",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:29 GMT"
+                            },
+                            "name": "Nebula - 4.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "tJNVqIrBrHHneBNsw3x02",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/86f95abc0c1d4fe5b6c1f21689f8d2c3/original/Nebula---5.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#132040",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:35 GMT"
+                            },
+                            "name": "Nebula - 5.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "P5zkD6h8iFnMvcthRgroE",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/4c13fed8fb964e749991d3b7b60a2c41/original/Nebula---6.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#20456e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 6.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "AHigt5zGuTlxFc4GPiLOb",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/51d3cc3eaf684315b698b59081333753/original/Nebula---7.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#111b41",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:40 GMT"
+                            },
+                            "name": "Nebula - 7.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "2x8YOoBXohLusCTPM04UZ",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/55435009d7da4593a2697a9959f3a169/original/Nebula---8.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#162c57",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 8.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "yfkWjVcwl8akiQzrSA-_Z",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/43e0a0cd08b74abcafc38d9611749bc9/original/Nebula---9.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#141f44",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 9.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "KilI4KrDmfW0pVV4aVh8b",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/642f801523be4d4188951087f9cca871/original/Nebula---10.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1e3a68",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 10.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "QBzm7f5U98a87POL6SnxB",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/abc379effe434d4b9210491008128705/original/Nebula---11.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#122758",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:29 GMT"
+                            },
+                            "name": "Nebula - 11.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "axsHn1poagcSsx_YRBd27",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/2723e3696d304664879ace9b72b2a122/original/Nebula---12.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1b2853",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 12.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "brZxicZxg4mI3EyvyciiE",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/03f5a4373df2455ca35fdc6f1791aa34/original/Nebula---13.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#131c3e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 13.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "uokYKPn76-JTLdetd5aGK",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/9dad00691e1e4b2ca34962349230ae84/original/Nebula---14.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#29446d",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:40 GMT"
+                            },
+                            "name": "Nebula - 14.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ojeMn3P5lwpUfOwdCl2bL",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/c9653989d53e488693d4732fe2156b05/original/Nebula---15.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#16345f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 15.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "UV2QYwBXs-jsUc8xMQkgt",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/c59329275327474c9cdb2d5a89dd9d29/original/Nebula---16.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1a294d",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:40 GMT"
+                            },
+                            "name": "Nebula - 16.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "pj-gnHQQXdrOm9Tft5ScN",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/23b56059c4294510ba7e0aa3c89d0ed5/original/Nebula---17.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#21325f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:40 GMT"
+                            },
+                            "name": "Nebula - 17.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "s0pg5cm-ZfFhjdMencP6U",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/f18370d0ff934e75add7f40219c114b9/original/Nebula---18.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1b2b50",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:29 GMT"
+                            },
+                            "name": "Nebula - 18.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "d29ZFf4oGL29qm69bCrAd",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/d84133254bbf4e2ab17241295d40605e/original/Nebula---19.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#254670",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:29 GMT"
+                            },
+                            "name": "Nebula - 19.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "JwFhzcJcuBYrlnTrpshto",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/5b67fa177fd54644a138aba7360ca5ee/original/Nebula---20.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#415a7e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 20.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "T8wX11_2EuhF4G8ZiG-8l",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/640dc5c905604b27812f7a43bc02fb8b/original/Nebula---21.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1d3453",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 21.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "5gXC0-fv3al2pcZ9i2p9e",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/846db52168864a9a83e380151d7029c0/original/Nebula---22.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#183661",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:31 GMT"
+                            },
+                            "name": "Nebula - 22.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "QNJOmchIqL3MBIhpoQCki",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/42dca47e894747b48687474bd560bd28/original/Nebula---23.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#152f51",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:40 GMT"
+                            },
+                            "name": "Nebula - 23.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "SiOqLAUctzUPRQ2DUXDhR",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/87a93ed267a74563b034f09f6d13e4ca/original/Nebula---24.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0e2645",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 24.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "jrwreD50odeTPZVO1dugu",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/49f0466c2c4940a78e03894d4d508e15/original/Nebula---25.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#19264e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 25.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "6b7-0J2bGcvLUHVSMhM3p",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/547b2525f5ac4afc89dd655d1b81c62e/original/Nebula---26.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1a2346",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:31 GMT"
+                            },
+                            "name": "Nebula - 26.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "f9izZUJPGUXTr-zo--jky",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/ef737244566942b8ae7d9143c8b9cc56/original/Nebula---27.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0f1a2b",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:39 GMT"
+                            },
+                            "name": "Nebula - 27.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "gf5IHoqj1lZh0-KI5TEWI",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/2aae852ccd9d440f9bcc4721bd510f34/original/Nebula---28.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#161a2d",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:43 GMT"
+                            },
+                            "name": "Nebula - 28.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "yQgxEiQ1Rf3O8Cflhc4Ua",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/b3813bb718164b35b8faee1b1a8adf02/original/Nebula---29.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#151d2e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:39 GMT"
+                            },
+                            "name": "Nebula - 29.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "hY2RM1rw-r-FmgYeDoYys",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/a93bfe38866b4c33b108ea9a44f8721f/original/Nebula---30.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#15192b",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 30.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "XFTTwHG5h8ruujmPcO4cL",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/33ac37b54863416791edd77bdd815d2c/original/Nebula---31.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#181d37",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:40 GMT"
+                            },
+                            "name": "Nebula - 31.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "dvOqqk7iZ6HapX9fD9QQN",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/77846ce4cc6442869cf24b6611b091b1/original/Nebula---32.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#171e36",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:43 GMT"
+                            },
+                            "name": "Nebula - 32.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "jEFcVG72kxxj5ssw5Ix8D",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/34268715ba5d4d74b78ec6106f6839c5/original/Nebula---33.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#181e2f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:39 GMT"
+                            },
+                            "name": "Nebula - 33.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "dUR22tKS9Va9nr6H5Uj6E",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/4fe8012a8ae54003b2c6dd2a7c7cff4d/original/Nebula---34.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#182a42",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:38 GMT"
+                            },
+                            "name": "Nebula - 34.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "gAo0N9dso_dGxED1qWmQ7",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/25478247b4514df78befa39f80de52d9/original/Nebula---35.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#182236",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:43 GMT"
+                            },
+                            "name": "Nebula - 35.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "_cZbvvm0KDmzUR7fnsWuu",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/215c3ad2370c4b5fb9fd954bf11c5f3f/original/Nebula---36.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1a1d34",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:43 GMT"
+                            },
+                            "name": "Nebula - 36.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "xJbeo46YXk_k7dV4XOtxO",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/8d0033aa675b4a7589dc38f6d3c44e51/original/Nebula---37.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#1d2140",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:41 GMT"
+                            },
+                            "name": "Nebula - 37.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "BJ8EL6wYYIlOhJS5MOQak",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/e33ed9415a434a149d8d140a0546a72c/original/Nebula---38.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "RGB",
+                                "frame_count": 1,
+                                "orientation": "Horizontal (normal)",
+                                "aspect_ratio": 1,
+                                "average_color": "#161d3d",
+                                "device_software": "Adobe Photoshop 25.3 (Macintosh)",
+                                "has_transparency": false,
+                                "date_file_created": "2024/01/10 02:44:46 GMT",
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:39 GMT"
+                            },
+                            "name": "Nebula - 38.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "EXyytM3kvxw0uWE-eBRpj",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/b046532a120547c9b1ff786050d84924/original/Nebula---39.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#26405f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:43 GMT"
+                            },
+                            "name": "Nebula - 39.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "InVWmwQNRCjLZrNQ15Qst",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/aa182d162e8a4233839a6882b63fb799/original/Nebula---40.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#15203e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:43 GMT"
+                            },
+                            "name": "Nebula - 40.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ae6NSva1-nrV-_uBFx4LT",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/7395c9174129437ba0b1615b251a40bd/original/Nebula---41.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0c192e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/14 23:43:41 GMT"
+                            },
+                            "name": "Nebula - 41.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "4rZgwh-rqpkfOOHMy1lSL",
+                        "originalSource": "image.custom"
+                    }
+                ],
+                "secondaryAccentColors": [
+                    "#7AF0FF",
+                    "#120336",
+                    "#0D0326"
+                ],
+                "disableReadabilityAdjustment": false
+            },
+            "priority": 490,
+            "previewUrl": "https://assets.api.gamma.app/themes/preview/v1/h3h9jmow61m00a8/61fc4814cd728557de99289ede76275b7bc68c18",
+            "archived": false,
+            "createdTime": "2026-10-09T18:33:00.574Z",
+            "updatedTime": "2026-10-09T18:33:00.574Z",
+            "fonts": [
+                {
+                    "id": "Noto Sans",
+                    "name": "Noto Sans",
+                    "url": "https://fonts.googleapis.com/css2?family=Noto%20Sans:wght@100;200;300;400;500;600;700;800;900&display=swap",
+                    "__typename": "ThemeFont"
+                },
+                {
+                    "id": "Sora",
+                    "name": "Sora",
+                    "url": "https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap",
+                    "__typename": "ThemeFont"
+                }
+            ],
+            "__typename": "Theme",
+            "createdBy": {
+                "id": "4qcdcxebu5k957i",
+                "displayName": "Stijn Dhondt",
+                "email": "stijndhondt@gmail.com",
+                "profileImageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKuzyompOK2we9nVKDYwSdWwaZ3PuItY6EQQx2X3hdGiDQ4Kw=s96-c",
+                "__typename": "User"
+            },
+            "docCount": 0,
+            "siteCount": 0
+        }
+    }
+}

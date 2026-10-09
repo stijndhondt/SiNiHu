@@ -1,0 +1,558 @@
+{
+    "data": {
+        "theme": {
+            "id": "jfw52culamfvqjn",
+            "workspaceId": "rg3za72n0aqixky",
+            "name": "Finesse",
+            "headingFont": "Lora",
+            "headingFontWeight": 400,
+            "bodyFont": "Source Sans 3",
+            "bodyFontWeight": 400,
+            "accentColor": "#38512F",
+            "logoUrl": null,
+            "config": {
+                "fontSize": 1.0625,
+                "keywords": {
+                    "tone": [
+                        "feminine",
+                        "classy",
+                        "elegant",
+                        "professional",
+                        "simple",
+                        "minimalist",
+                        "clean",
+                        "soft",
+                        "deluxe",
+                        "expensive",
+                        "classic",
+                        "vintage",
+                        "aesthetic",
+                        "floral",
+                        "organic"
+                    ],
+                    "color": [
+                        "light",
+                        "beige",
+                        "olive",
+                        "green",
+                        "earthy",
+                        "neutral",
+                        "warm"
+                    ]
+                },
+                "bodyColor": "#3A3630",
+                "themeBase": "finesse",
+                "background": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#F2E4CF"
+                    },
+                    "source": "color.solid"
+                },
+                "stylePrompt": "Elegant and deluxe with a feminine and aesthetic touch, featuring soft and warm earthy tones like olive and beige for a sophisticated, organic look.",
+                "headingColor": "#38512F",
+                "accentGradient": {
+                    "angle": 180,
+                    "colors": [
+                        "#607254",
+                        "#38512F"
+                    ],
+                    "disabled": true
+                },
+                "cardBackground": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#FEF5E7"
+                    }
+                },
+                "accentBackgrounds": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-01_9a3a7352.svg",
+                            "meta": {},
+                            "name": "finesse-01_9a3a7352.svg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "9a3a7352",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-02_c763cf9d.svg",
+                            "meta": {},
+                            "name": "finesse-02_c763cf9d.svg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "c763cf9d",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-03_c452c6ed.svg",
+                            "meta": {},
+                            "name": "finesse-03_c452c6ed.svg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "c452c6ed",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-4_475c7694.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-4_475c7694.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "475c7694",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-5_e785912f.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-5_e785912f.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "e785912f",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-6_87592de0.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-6_87592de0.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "87592de0",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-7_dbf8eba2.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-7_dbf8eba2.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "dbf8eba2",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-8_1cc05582.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-8_1cc05582.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "1cc05582",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-9_8b9dbe68.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-9_8b9dbe68.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "8b9dbe68",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-10_cb0cc9d1.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-10_cb0cc9d1.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "cb0cc9d1",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-11_5edff884.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-11_5edff884.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "5edff884",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-12_c0687e81.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-12_c0687e81.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "c0687e81",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-13_1d2e911c.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-13_1d2e911c.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "1d2e911c",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-14_c138e002.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-14_c138e002.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "c138e002",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-15_5a36fe22.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-15_5a36fe22.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "5a36fe22",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-17_5abe2b2a.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-17_5abe2b2a.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "5abe2b2a",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-18_6189e6f6.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-18_6189e6f6.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "6189e6f6",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-19_b1364324.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-19_b1364324.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "b1364324",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-20_3b00c68f.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-20_3b00c68f.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "3b00c68f",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-21_7d4d2ac1.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-21_7d4d2ac1.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "7d4d2ac1",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-22_e6bb1b37.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-22_e6bb1b37.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "e6bb1b37",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-23_fea63c78.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-23_fea63c78.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "fea63c78",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-24_85c6e76e.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-24_85c6e76e.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "85c6e76e",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-25_af7d2875.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-25_af7d2875.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "af7d2875",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-26_2495acef.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-26_2495acef.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "2495acef",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-27_d028cbb0.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-27_d028cbb0.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "d028cbb0",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-28_4410f11d.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-28_4410f11d.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "4410f11d",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-29_9b3ca272.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-29_9b3ca272.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "9b3ca272",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-30_412939a8.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-30_412939a8.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "412939a8",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-31_25b4acca.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-31_25b4acca.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "25b4acca",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/finesse/finesse-32_ce45fc10.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096
+                            },
+                            "name": "finesse-32_ce45fc10.jpg",
+                            "source": "image.custom"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ce45fc10",
+                        "originalSource": "image.custom"
+                    }
+                ]
+            },
+            "priority": 260,
+            "previewUrl": "https://assets.api.gamma.app/themes/preview/v1/jfw52culamfvqjn/79a86042b89aaa0e8dca56d8a9fc6927aba02c86",
+            "archived": false,
+            "createdTime": "2026-10-09T19:15:44.375Z",
+            "updatedTime": "2026-10-09T19:15:44.375Z",
+            "fonts": [
+                {
+                    "id": "Lora",
+                    "name": "Lora",
+                    "url": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+                    "__typename": "ThemeFont"
+                },
+                {
+                    "id": "Source Sans 3",
+                    "name": "Source Sans 3",
+                    "url": "https://fonts.googleapis.com/css2?family=Source%20Sans%203:wght@200;300;400;500;600;700;800;900&display=swap",
+                    "__typename": "ThemeFont"
+                }
+            ],
+            "__typename": "Theme",
+            "createdBy": {
+                "id": "4qcdcxebu5k957i",
+                "displayName": "Stijn Dhondt",
+                "email": "stijndhondt@gmail.com",
+                "profileImageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKuzyompOK2we9nVKDYwSdWwaZ3PuItY6EQQx2X3hdGiDQ4Kw=s96-c",
+                "__typename": "User"
+            },
+            "docCount": 0,
+            "siteCount": 0
+        }
+    }
+}
