@@ -327,7 +327,8 @@
       "type": "object",
       "properties": {
         "fill": {
-          "type": "string"
+          "type": "string",
+          "pattern": "^(?:#[0-9A-Fa-f]{6}(?:[0-9A-Fa-f]{2})?|none)$"
         },
         "stroke": {
           "type": "object",
@@ -337,11 +338,13 @@
           ],
           "properties": {
             "color": {
-              "type": "string"
+              "type": "string",
+              "pattern": "^#[0-9A-Fa-f]{6}(?:[0-9A-Fa-f]{2})?$"
             },
             "width": {
               "type": "number",
-              "minimum": 0
+              "minimum": 0,
+              "description": "Stroke width in typographic points (pt)."
             },
             "lineStyle": {
               "enum": [
@@ -364,7 +367,8 @@
         },
         "fontSize": {
           "type": "number",
-          "exclusiveMinimum": 0
+          "exclusiveMinimum": 0,
+          "description": "Font size in typographic points (pt)."
         },
         "fontWeight": {
           "oneOf": [
@@ -382,7 +386,8 @@
           ]
         },
         "color": {
-          "type": "string"
+          "type": "string",
+          "pattern": "^#[0-9A-Fa-f]{6}(?:[0-9A-Fa-f]{2})?$"
         },
         "alignment": {
           "enum": [
@@ -586,7 +591,7 @@
         },
         "assetPath": {
           "type": "string",
-          "pattern": "^assets/(?!\\.{1,2}(?:/|$))(?!.*\\/\\.{1,2}(?:/|$))[^\\\\]+$"
+          "pattern": "^assets/(?!\\.{1,2}(?:/|$))(?!.*\\/\\.{1,2}(?:/|$))(?:[^/\\\\]+\\/)*[^/\\\\]+$"
         },
         "altText": {
           "type": "string"
@@ -789,7 +794,7 @@
         "url": {
           "type": "string",
           "format": "uri",
-          "pattern": "^https://"
+          "pattern": "^https://(?!:)[^/@?#]+(?:/[^?#]*)?$"
         },
         "provider": {
           "type": "string",

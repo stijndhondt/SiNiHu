@@ -30,7 +30,7 @@ Each revision stores complete slide content: ordered elements and optional slide
 | `chart` | Editable data-backed chart with categories and numeric series. Schema version 1 supports `bar`, `column`, `line`, and `pie`. |
 | `externalResource` | A `video` or provider `embed` represented by a credential-free HTTPS URL and optional provider metadata. No binary media, arbitrary HTML, or scripts are embedded. |
 
-The typed style vocabulary covers fill, stroke, opacity, font family, font size, font weight, color, alignment, and vertical alignment. Arbitrary CSS is not part of the model. Optional alt text and an explicit decorative flag are supported for images and external resources; decorative assets need not have alt text.
+The typed style vocabulary covers fill, stroke, opacity, font family, font size, font weight, color, alignment, and vertical alignment. Font size and stroke width are typographic points (`pt`), independent of the slide's inch-based geometry. Colors use sRGB hexadecimal `#RRGGBB` or `#RRGGBBAA` notation, with alpha as the final byte; `fill` additionally accepts `none`. Element opacity multiplies any color alpha. Arbitrary CSS is not part of the model. Optional alt text and an explicit decorative flag are supported for images and external resources; decorative assets need not have alt text.
 
 Elements can include an `extensions` object with namespaced JSON values for future or application-specific data. Readers and writers that do not understand a namespace preserve its values unchanged. This does not permit adding unrecognized core element types.
 
@@ -55,9 +55,9 @@ assets/
 
 The package preserves current slides, retained slide revisions, checkpoints, and images referenced by current or retained revisions. Paths inside the archive use `/` separators regardless of the host operating system. Image references are relative paths beneath `assets/`; absolute paths, traversal outside that directory, and machine-local paths are invalid.
 
-Video and provider embed resources are credential-free HTTPS references, not bundled binaries. The package validator rejects URLs containing user information or authorization material, including credential/token/signature query parameters. Authentication belongs in runtime configuration or a separate sign-in flow. Credentials, cookies, AI prompts/responses, and executable HTML/scripts must never be serialized into the archive.
+Video and provider embed resources are HTTPS references, not bundled binaries. Their URLs must have a host and may have a path, but must not contain user information, a query, or a fragment. This deliberately excludes signed URLs and query-based provider URLs; authentication belongs in runtime configuration or a separate sign-in flow. Credentials, cookies, AI prompts/responses, and executable HTML/scripts must never be serialized into the archive.
 
-Before opening, the package validator checks the entire archive and manifest. It rejects malformed manifests, unsupported core types, missing or unsafe asset references, duplicate or ambiguous normalized entries, path traversal, and unsupported versions with actionable diagnostics. It must not silently drop content, substitute missing assets, or partially load an invalid package. The validator checks revision and checkpoint references and verifies that active slide mappings resolve to revisions belonging to those slides.
+Before opening, the package validator checks the entire archive and manifest. It rejects malformed manifests, unsupported core types, missing or unsafe asset references, duplicate or ambiguous normalized entries, path traversal, and unsupported versions with actionable diagnostics. Image references must consist of non-empty slash-separated path segments beneath `assets/`, with a non-empty final filename; `.` and `..` segments and backslashes are invalid. It must not silently drop content, substitute missing assets, or partially load an invalid package. The validator checks revision and checkpoint references and verifies that active slide mappings resolve to revisions belonging to those slides.
 
 ## Versioning and compatibility
 
@@ -72,4 +72,4 @@ The exporter produces editable native PowerPoint objects where supported, includ
 
 ## Validation boundary
 
-JSON Schema validates manifest structure, field types, supported element discriminators, and local constraints. It cannot prove that IDs resolve to the intended revision, checkpoint mappings are coherent, ZIP paths remain safe after normalization, archive entries are unique, or referenced files exist. These are required checks for the ZIP package validator, as specified above.
+JSON Schema validates manifest structure, field types, supported element discriminators, and local constraints. Package validators MUST apply Draft 2020-12 format assertion when evaluating the schema's `date-time` and `uri` formats. A validator that cannot enable that vocabulary MUST perform equivalent RFC 3339 date-time and RFC 3986 URI validation and reject invalid values. It cannot prove that IDs resolve to the intended revision, checkpoint mappings are coherent, ZIP paths remain safe after normalization, archive entries are unique, or referenced files exist. These are required checks for the ZIP package validator, as specified above.
