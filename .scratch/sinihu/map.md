@@ -18,6 +18,7 @@ An implementation-ready product and architecture specification for SiNiHu's firs
 
 - [Image Generation Provider Capabilities](issues/13-image-generation-provider-capabilities.md): Azure and OpenAI document image APIs; generic compatible endpoints require capability validation, and Copilot SDK has no documented native generation endpoint.
 - [First Admin and Invitations](issues/01-first-admin-and-invitations.md): bootstrap, invitation, sign-in identity linking, account recovery and removal policies are specified, including the boundary around browser-local deck data.
+- [Layouts, Templates, and Themes](issues/04-layouts-templates-and-themes.md): Deck templates provide starting content, structure, and backgrounds; layouts and reusable slides are reusable independently; themes control deck-wide colors and typography; personal reusable content stays private to its owner.
 
 ## Not yet specified
 

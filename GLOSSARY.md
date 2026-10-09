@@ -47,15 +47,19 @@ An ordered collection of slides prepared for online presentation or export.
 _Avoid_: Project (when referring only to slide content)
 
 **Slide layout**:
-A reusable structural arrangement of content on a slide.
+A reusable arrangement of content on a slide, including fixed placements and structured objects that reflow as their contents change.
 _Avoid_: Template
 
+**Reusable slide**:
+A saved, populated slide that an owner can insert into another deck, preserving its original styling or adopting the destination deck's theme.
+_Avoid_: Slide template
+
 **Template**:
-A reusable starting point that supplies slide content or structure for a new deck or slide.
+A reusable deck-level starting point that may provide slide content, structure, and backgrounds, and may contain only one slide.
 _Avoid_: Theme
 
 **Theme**:
-A set of visual styling choices that can be applied independently of a template's starting content.
+A set of colors and typography that can be applied across a deck independently of its template, content, structure, and backgrounds.
 _Avoid_: Template
 
 ## AI Work
