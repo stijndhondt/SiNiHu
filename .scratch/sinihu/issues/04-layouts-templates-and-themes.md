@@ -16,6 +16,6 @@ The built-in standalone slide layouts are no layout, title, top image, left imag
 
 A reusable slide is a populated slide with actual content that can be inserted into another deck. On insertion, users can keep the slide's original styling or match the destination deck's theme; preserving its original styling is the default.
 
-Themes apply across the deck and control colors and typography only. Backgrounds belong to templates. Decorative theme assets, including Sage's, are not applied automatically; they may be used explicitly or supplied by a template. Sage is the default theme. The initial theme choices also include Nebulae, Lux, Clementa, Lunaria, Night Sky, Peach, Blues, Flamingo, and Finesse.
+Themes apply across the deck and control colors and typography only. Backgrounds belong to templates. Decorative theme assets, including Sage's, are not applied automatically; they may be used explicitly or supplied by a template. Sage is the default theme. The initial theme choices also include Nebulae, Lux, Clementa, Lunaria, Night Sky, Peach, and Finesse.
 
 User-created slide layouts, reusable slides, templates, and themes live in a private library available across the owner's projects. They remain private to their owner.
