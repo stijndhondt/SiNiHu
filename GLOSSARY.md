@@ -5,8 +5,16 @@ SiNiHu is a household slide-deck authoring and presentation application. This gl
 ## People and Access
 
 **Account**:
-A person's identity in SiNiHu, associated with one or more sign-in methods and owning that person's projects and provider connections.
+A person's identity in SiNiHu, associated with one or more sign-in methods and owning that person's projects, reusable content, and provider connections.
 _Avoid_: Login, profile
+
+**Account-local data**:
+Projects and reusable content held in a browser and associated with a SiNiHu Account. This association is organizational and does not make same-origin browser storage a security boundary.
+_Avoid_: Account storage (which may imply isolation or protection)
+
+**Unassigned local content**:
+Browser-held projects or reusable content that has not been associated with a SiNiHu Account.
+_Avoid_: Orphaned content
 
 **Sign-in identity**:
 An identity from an external provider, such as Microsoft, GitHub, or Google, that a person uses to authenticate to a SiNiHu Account.
