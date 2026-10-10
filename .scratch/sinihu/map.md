@@ -20,6 +20,7 @@ An implementation-ready product and architecture specification for SiNiHu's firs
 - [First Admin and Invitations](issues/01-first-admin-and-invitations.md): bootstrap, invitation, sign-in identity linking, account recovery and removal policies are specified, including the boundary around browser-local deck data.
 - [Local Account Data Lifecycle](issues/02-local-account-data-lifecycle.md): Account-local content requires explicit selection and authentication, cross-tab and inactivity locking, explicit legacy-data adoption, and defined removal, deletion, and ZIP portability rules.
 - [Layouts, Templates, and Themes](issues/04-layouts-templates-and-themes.md): Deck templates provide starting content, structure, and backgrounds; layouts and reusable slides are reusable independently; themes control deck-wide colors and typography; personal reusable content stays private to its owner.
+- [Provider Connections and Secrets](issues/05-provider-connections-and-secrets.md): Per-account Copilot and BYOK connection setup, validation, credential renewal/replacement, secret-safe status, and deletion behavior are specified.
 
 ## Not yet specified
 
