@@ -73,6 +73,9 @@ _Avoid_: Deactivation
 A user's authorization or configuration for using an AI provider, such as GitHub Copilot or a BYOK model service.
 _Avoid_: License, API key (unless referring specifically to the secret)
 
+**Provider connection status**:
+The validation state of a Provider connection: Not tested, Ready, or Needs attention. Ready means the configured endpoint, credential, and model or deployment passed the last explicit test; it does not guarantee current provider availability.
+
 **Sharing**:
 An explicit grant that lets another account access a project or reusable asset.
 _Avoid_: Collaboration (unless simultaneous editing is meant)
@@ -106,7 +109,7 @@ _Avoid_: Template
 ## AI Work
 
 **AI session**:
-A user's scoped interaction with an AI provider for work on a project.
+A persisted interaction between an Account and a Provider connection, scoped to a Project.
 _Avoid_: Chat (when referring to the persisted interaction)
 
 **Proposal**:
