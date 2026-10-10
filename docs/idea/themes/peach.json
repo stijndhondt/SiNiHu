@@ -1,0 +1,615 @@
+{
+    "data": {
+        "theme": {
+            "id": "kzm34j4n1pmbu2m",
+            "workspaceId": "rg3za72n0aqixky",
+            "name": "Untitled theme",
+            "headingFont": "Merriweather",
+            "headingFontWeight": 700,
+            "bodyFont": "Open Sans",
+            "bodyFontWeight": 400,
+            "accentColor": "#FFAD94",
+            "logoUrl": null,
+            "config": {
+                "fontSize": 1,
+                "keywords": {
+                    "tone": [
+                        "Playful",
+                        "friendly",
+                        "casual",
+                        "fun",
+                        "loud",
+                        "bold",
+                        "young",
+                        "fresh",
+                        "creative",
+                        "spring",
+                        "summer"
+                    ],
+                    "color": [
+                        "light",
+                        "peach",
+                        "salmon",
+                        "orange",
+                        "coral",
+                        "yellow",
+                        "pastel",
+                        "gradient",
+                        "vibrant",
+                        "colorful",
+                        "warm"
+                    ]
+                },
+                "bodyColor": "#403C4E",
+                "themeBase": "default",
+                "background": {
+                    "type": "image",
+                    "color": {
+                        "hex": "#FAFAFA"
+                    },
+                    "image": {
+                        "src": "https://cdn.gamma.app/rg3za72n0aqixky/d4fac9260e974099ad0c298a28642c46/original/Tropics---background.png",
+                        "meta": {
+                            "width": 3000,
+                            "height": 1688,
+                            "colorspace": "sRGB",
+                            "frame_count": 1,
+                            "aspect_ratio": 1.777,
+                            "average_color": "#ffe0c5",
+                            "has_transparency": true,
+                            "date_file_created": "2024/01/09 17:22:36 GMT",
+                            "has_clipping_path": false,
+                            "date_file_modified": "2024/01/09 20:09:33 GMT"
+                        },
+                        "name": "Tropics - background.png",
+                        "source": "image.custom",
+                        "uploadStatus": 0,
+                        "showPlaceholder": false,
+                        "uploadResultStep": "original"
+                    },
+                    "source": "image.custom"
+                },
+                "stylePrompt": "Casual and fun with a youthful vibe, featuring warm shades of peach, salmon, and coral, perfect for a fresh, vibrant look suitable for spring and summer.",
+                "headingColor": "#403C4E",
+                "accentGradient": {
+                    "angle": 180,
+                    "colors": [
+                        "#FFAD94",
+                        "#38512F"
+                    ],
+                    "disabled": true
+                },
+                "cardBackground": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#FFFFFF"
+                    }
+                },
+                "accentBackgrounds": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/60b0e03f0ce54d7abe176c7683cee73a/original/Peach---1.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fbc4b2",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 1.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ZqtAQJ_-aEG-zjmNYTb9s",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/40daf606fdec40428c386797b5431de1/original/Peach---2.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fbc8b7",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 2.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "553XvlDIY0V6y0MpbZbnM",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/b266c57ba2824111a57901595b5995fa/original/Peach---3.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fec5b4",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 3.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "_3yJtJVGXzOT58axfcemT",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/9a086d12a6a8442bb52b67edbc782f00/original/Peach---4.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fcc8b4",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:39 GMT"
+                            },
+                            "name": " Peach - 4.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "v6jmyB7HrlKsji-8FB_Tb",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/f3696bf678d64eaaba6e1e2f24c8a953/original/Peach---5.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fec2b0",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:39 GMT"
+                            },
+                            "name": " Peach - 5.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "-UGudoV6QfBTcb5PQHR9Y",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/c8c47564b8644bdf844d9424f372a6f1/original/Peach---6.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fdc0a8",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 6.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "6KHNgiwzeZSsKLctkFs2Q",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/cb8d8332e8b84e0b8cf916b07e90c55f/original/Peach---7.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fec6b1",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 7.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "Xy4ojG6so_KI3_KcOvh2J",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/db51b52f15f3457e832b1d5dc8d50d1b/original/Peach---8.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fec4ae",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 8.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "NJYBRdVQuVZxuQ0Kwpgz7",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/88dde3e8194046d2938948d5e15237fe/original/Peach---9.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "RGB",
+                                "frame_count": 1,
+                                "orientation": "Horizontal (normal)",
+                                "aspect_ratio": 1,
+                                "average_color": "#fac9b8",
+                                "device_software": "Adobe Photoshop 25.3 (Macintosh)",
+                                "has_transparency": false,
+                                "date_file_created": "2024/01/09 17:44:36 GMT",
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 9.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "B5YLn29W8iQ98W8teNYl7",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/afc51388b78e4d8f8dc50c7575508460/original/Peach---10.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "RGB",
+                                "frame_count": 1,
+                                "orientation": "Horizontal (normal)",
+                                "aspect_ratio": 1,
+                                "average_color": "#fdc9b9",
+                                "device_software": "Adobe Photoshop 25.3 (Macintosh)",
+                                "has_transparency": false,
+                                "date_file_created": "2024/01/09 17:44:36 GMT",
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:39 GMT"
+                            },
+                            "name": " Peach - 10.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "8les19m2cenyYfGKfgO11",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/a1d0afd353204b28bd7d387d1540df1a/original/Peach---11.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fed3c3",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:39 GMT"
+                            },
+                            "name": " Peach - 11.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "pQG0EpV95xVMNFWZu-Eqp",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/35d8e939001c4c22bd53606a293f592a/original/Peach---12.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fac2ac",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 12.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "DZ6ti03XEaNnJ53TuMAms",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/b2ec9cdaba944934a7147cb11f4fbcb6/original/Peach---13.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fdc3b0",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 13.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "fFNCFoTmBxOxAHTHlvLO2",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/3e2635617bf0456a8739631551269a2c/original/Peach---14.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fec5b1",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 14.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "AjK5dllNtMXK6ryjMdiL0",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/7bca154146c043119882db82ae6699b3/original/Peach---15.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#febaa6",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 15.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "oLftayPOR4O6ascuCndjG",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/fc839641cf534826b212b0bc750df305/original/Peach---16.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#faccb8",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 16.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "Ku7qFPMRvKAxYi4cDvDrC",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/0fd170f00df34a87bfead3f5432d0daa/original/Peach---17.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fecdbb",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 17.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "f1uQXq738U9Qy0x-UEIVW",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/f069b5113707424cab047660efc7301c/original/Peach---18.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fac1b1",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 18.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "r-vZw5262nWm0h-wxNGWn",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/43d06f377e8c44878d9ba86f2ac4b3d2/original/Peach---19.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#fdc2ac",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:38 GMT"
+                            },
+                            "name": " Peach - 19.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "g6SYzYJCPZfK14T19n1lm",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/6d086d74cd004e93bdfaac8b2a0b9f1d/original/Peach---20.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#ffcfbc",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/03/12 22:23:39 GMT"
+                            },
+                            "name": " Peach - 20.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "wa7d6OKRT2NRFF-wunG5p",
+                        "originalSource": "image.custom"
+                    }
+                ],
+                "secondaryAccentColors": [
+                    "#FFD1CC",
+                    "#FFDBC8",
+                    "#FFEDBF",
+                    "#FFF9B9"
+                ],
+                "disableReadabilityAdjustment": false
+            },
+            "priority": 375,
+            "previewUrl": "https://assets.api.gamma.app/themes/preview/v1/kzm34j4n1pmbu2m/2e636d37838c3378d5eeec5256f32fcf1a6b552b",
+            "archived": false,
+            "createdTime": "2026-10-09T18:43:32.509Z",
+            "updatedTime": "2026-10-09T18:43:32.509Z",
+            "fonts": [
+                {
+                    "id": "Merriweather",
+                    "name": "Merriweather",
+                    "url": "https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;500;600;700;800;900&display=swap",
+                    "__typename": "ThemeFont"
+                },
+                {
+                    "id": "Open Sans",
+                    "name": "Open Sans",
+                    "url": "https://fonts.googleapis.com/css2?family=Open%20Sans:wght@300;400;500;600;700;800&display=swap",
+                    "__typename": "ThemeFont"
+                }
+            ],
+            "__typename": "Theme",
+            "createdBy": {
+                "id": "4qcdcxebu5k957i",
+                "displayName": "Stijn Dhondt",
+                "email": "stijndhondt@gmail.com",
+                "profileImageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKuzyompOK2we9nVKDYwSdWwaZ3PuItY6EQQx2X3hdGiDQ4Kw=s96-c",
+                "__typename": "User"
+            },
+            "docCount": 0,
+            "siteCount": 0
+        }
+    }
+}

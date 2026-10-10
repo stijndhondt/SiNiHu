@@ -1,0 +1,1321 @@
+{
+    "data": {
+        "theme": {
+            "id": "r6wr129key5j7c4",
+            "workspaceId": "rg3za72n0aqixky",
+            "name": "Untitled theme",
+            "headingFont": "Roboto",
+            "headingFontWeight": 500,
+            "bodyFont": "Roboto",
+            "bodyFontWeight": 400,
+            "accentColor": "#5A6ED8",
+            "logoUrl": null,
+            "config": {
+                "keywords": {
+                    "tone": [
+                        "elegant",
+                        "professional",
+                        "playful",
+                        "friendly",
+                        "simple",
+                        "minimalist",
+                        "clean",
+                        "bold",
+                        "luxury",
+                        "modern",
+                        "high tech",
+                        "futuristic",
+                        "young",
+                        "fresh",
+                        "creative"
+                    ],
+                    "color": [
+                        "gradient",
+                        "dark",
+                        "navy",
+                        "periwinkle blue",
+                        "blue",
+                        "indigo",
+                        "lilac",
+                        "purple blue",
+                        "light purple",
+                        "black"
+                    ]
+                },
+                "bodyColor": "#CFD0D8",
+                "themeBase": "glass",
+                "background": {
+                    "type": "image",
+                    "color": {
+                        "hex": "#0c0c0c"
+                    },
+                    "image": {
+                        "src": "https://cdn.gamma.app/rg3za72n0aqixky/753fe4f09ed74e5cb8978c5dff4859f7/original/navy-bg-copy.png",
+                        "meta": {
+                            "width": 2225,
+                            "height": 1582,
+                            "colorspace": "sRGB",
+                            "frame_count": 1,
+                            "orientation": "Horizontal (normal)",
+                            "aspect_ratio": 1.406,
+                            "average_color": "#020218",
+                            "has_transparency": true,
+                            "has_clipping_path": false,
+                            "date_file_modified": "2023/11/21 01:44:01 GMT"
+                        },
+                        "name": "navy bg copy.png",
+                        "source": "image.custom",
+                        "uploadStatus": 0,
+                        "showPlaceholder": false,
+                        "uploadResultStep": "original"
+                    },
+                    "source": "image.custom",
+                    "gradient": {
+                        "css": {
+                            "backgroundImage": "radial-gradient(circle at 0% 0%, #0b28ff80 0, #0b28ff00 50%),radial-gradient(circle at 14.72257432152649% 47.08386148228974%, #7182ff80 0, #7182ff00 82.36128716076325%),radial-gradient(circle at 29.44514864305298% 44.16772296457948%, #d7dcff80 0, #d7dcff00 64.7225743215265%),linear-gradient(0deg, #0b28ff80 0%, #0b28ff80 100%)"
+                        },
+                        "vibe": "mono",
+                        "primaryColor": "#0b28ff"
+                    }
+                },
+                "stylePrompt": "Modern and professional with bold and clean lines, using a color palette of navy, periwinkle blue, and light purple, evoking a luxurious nighttime aesthetic.",
+                "cardBackground": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#000018"
+                    }
+                },
+                "accentBackgrounds": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/8c0efa15b741410f8a0851a42a2e6091/original/Nightsky---1.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#283470",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 1.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "c11ZWaPdh9Y0AZlol9mZD",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/e8fea86c841e40fc8e428a182c4cc403/original/Nightsky---2.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#264682",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 2.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "KQrbuW15TF52m9UNX0XU_",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/cd5693bdeadf468094b9efb3c59819c1/original/Nightsky---3.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#30397f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:44 GMT"
+                            },
+                            "name": "Nightsky - 3.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ymQzCacwQbhOkL2FtXjTS",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/b9278329c58e4f80bde39d5c86df38b8/original/Nightsky---4.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#354483",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:44 GMT"
+                            },
+                            "name": "Nightsky - 4.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "fxbtp-97Mzral9itsZAOA",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/0b3dd99395ef4842a8b67c4774520269/original/Nightsky---5.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#303c73",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 5.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "zayfIkls4tCbJI-sX9gAO",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/22d5b6f427304ad392a72bf6c979f4c5/original/Nightsky---6.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#405594",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 6.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "dSDepfHSaNdAbSBYB7FvF",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/18019c9536dd422fa20a08c8183a7278/original/Nightsky---7.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#3e5298",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 7.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "IVfDp9Sx_Ng4vTTWeVx1m",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/e474ca9ef5c54e3c9bbcd178cdc3d490/original/Nightsky---8.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#304a8c",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 8.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "LOd_PFK9raNolyAUzPn4l",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/ffbc00c8a40c4a568e26d766f3fcbccb/original/Nightsky---9.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#3f4983",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:44 GMT"
+                            },
+                            "name": "Nightsky - 9.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "CB-hxDsKfVaaFelkQ5yAr",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/24ec3c1f5d894d83af7500a02975c37b/original/Nightsky---10.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#303c6c",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 10.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "TUBuu5NDKqqVNCtHXfSSq",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/86d86bdc68094179b90a96b7fbe7676f/original/Nightsky---11.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#47538e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 11.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "y7A_aFhR2AmoSLRXBd49e",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/94104ce9d2724064b3dbbe405c3881f4/original/Nightsky---12.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#374184",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 12.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "wCYbZp0WDrWkAYIDbZNy_",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/c0fe01fc3c034f519451126ba960a7c0/original/Nightsky---13.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#303e78",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 13.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ozvPfWcD_kVl7i5x-btmE",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/b43290ae0c4f4ffc85a70ef907a5a135/original/Nightsky---14.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#2e3974",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 14.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "cJV5iK8xkC7M8iTZFiGHT",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/27d845a5b4fe494598a3a415e3a317e0/original/Nightsky---15.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#344589",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 15.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "KUxqG76zTmzzIP02_zBF6",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/86bcdaedd3944e99b8f9ce76c894ce7c/original/Nightsky---16.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#37457d",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 16.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "9mK6d2hls6Fxn9ruf3Ghq",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/0ba2153712ea4c8fa9a3aec5443a557b/original/Nightsky---17.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#364b8f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 17.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "bm3H3qOyn0G5Pgng8CBFw",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/4ca75ce22a2043dab510580330e1fd46/original/Nightsky---18.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#262d61",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:44 GMT"
+                            },
+                            "name": "Nightsky - 18.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ArkCRdaLej6d6WMqQWuzh",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/4e387bafe7ec48d5b0b1b9c6e07fd704/original/Nightsky---19.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#354682",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:44 GMT"
+                            },
+                            "name": "Nightsky - 19.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "bNN28FYqZjsE3jhVy8peQ",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/6b82b06dc3ab4c00846c3d69237db495/original/Nightsky---20.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#44538c",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 20.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "mAJya2048M_x1iz6UhJ7T",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/f806e34299b64c33a90475d75a239db0/original/Nightsky---21.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#304081",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 21.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "No4i1YfhYKPYTcR1uMSP0",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/40a21964e6cb4867aeacd45e727ada62/original/Nightsky---22.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#313e77",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 22.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "duJEHVuLaqDd0PQx8Fa-H",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/5c302f1fbb874676b11255a338826c72/original/Nightsky---23.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#293269",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 23.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "uLGuVN3HNcoSnDRRzEohi",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/87fc883ecbd24bdcb2d51bd166ee7ac8/original/Nightsky---24.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#29447b",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:47 GMT"
+                            },
+                            "name": "Nightsky - 24.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "MGLpwssdEZO7ac6A8zI-a",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/8c3a80b0d9c5400d97e616a15d0757d9/original/Nightsky---25.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#303875",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:51 GMT"
+                            },
+                            "name": "Nightsky - 25.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "GvVZgbLhzXzSY90_3SzXD",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/b9796c48d9b642cf9d3b9a9233b0856f/original/Nightsky---26.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#36407c",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 26.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "r4jzxNDddWp6VdRX7wrSO",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/0562d18d2c5a491190650c7287be523a/original/Nightsky---27.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#314585",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 27.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "zxS8MsVU7EjIlhXy94XQO",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/1defcf3bb3334b42b45b80624fe9d61f/original/Nightsky---28.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#343e78",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:51 GMT"
+                            },
+                            "name": "Nightsky - 28.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "J4F8wBR5e6TOKqLcIKJ3C",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/6e45dc65a58049c2be68d4ed7ba8605e/original/Nightsky---29.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#334b8c",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:56 GMT"
+                            },
+                            "name": "Nightsky - 29.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "Nw-FxgdjZByHJFQnjnT66",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/7628a13b3f794ec4849db6e8906e500f/original/Nightsky---30.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#343b6f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:56 GMT"
+                            },
+                            "name": "Nightsky - 30.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "peNFymB6uTjh7N3BsBK5k",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/6331d121b63b4e119e05b22e9c290ed8/original/Nightsky---31.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#2d3a7e",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 31.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "lV7OnkZmD2gIbREc5cRen",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/2a026d80d81245db95cfbdd80fd8f419/original/Nightsky---32.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#3d549d",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 32.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "vNyn9Ss3LT3sD837fVbfy",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/ab9d2aaa2f2b42ed8439333390dc3d24/original/Nightsky---33.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#3b4d85",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 33.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "d1ry_BIbp6bV6nm6DujX1",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/b562d93f339443539793273f5cc2b5e5/original/Nightsky---34.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#343e78",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 34.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ZOYJx6vvGmoHq0ccI39N6",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/e0665fd828fe4af7a4e506198370e9cc/original/Nightsky---35.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#313875",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 35.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "urq_vJWdbfE5bGgvjXZ_O",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/d146001e1ec04cb5b9c18211f3b2dfb0/original/Nightsky---36.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#324083",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 36.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "k9jdc0yaQxmvGN1kVv5sS",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/ab5533f81314480496782585ba59eb3e/original/Nightsky---37.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#2f3a74",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:56 GMT"
+                            },
+                            "name": "Nightsky - 37.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "Nr-60uPjR-NqPtlggvkuo",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/85c3f7519fa643d09cac66c3092c4824/original/Nightsky---38.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#343876",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:50 GMT"
+                            },
+                            "name": "Nightsky - 38.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "PlKdymGQ_4EXa7EJCwjee",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/be62a562062743de9617f9e12429de6d/original/Nightsky---39.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#3d4c97",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 39.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "cZ4vgR1u3aE7m4r5Qp1b1",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/bbb091c9389540729b69cc84f6f33169/original/Nightsky---40.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#303c72",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 40.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "d3LPBNwRKMfFnEmCkwlZB",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/3a76b8566a5c47e3a1023cb350c7f720/original/Nightsky---41.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#404887",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:56 GMT"
+                            },
+                            "name": "Nightsky - 41.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "Wr98DxgNSomsKtRQ0t-WF",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/63345f8c5818437888c627f14bdee0b3/original/Nightsky---42.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#344484",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 42.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "mWEx_HXX0OPr4lWRaacRo",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/bcc54e3ed8f2462187f4fc07b146afc2/original/Nightsky---43.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#293166",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 43.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "qgQLAHmslUd9we6NZenJl",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/02a1d845ec3b4e8f86c4845b6043a808/original/Nightsky---44.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#37467d",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 44.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "Xp2hBoHlI_JxqD0q3q1_3",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/874a2424ffdc4d79ad2f44530a733bc3/original/Nightsky---45.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#273064",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:56 GMT"
+                            },
+                            "name": "Nightsky - 45.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "SXC8cncg0RQ4FTvmZnGeH",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/c0e95453efde4ae8ab160728414f085c/original/Nightsky---46.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#445598",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 46.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "JBrNml3Mt1pvgPkMjqL8m",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/fae0566c0d6e4f6681cf2b3dc3fd1068/original/Nightsky---47.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#343e7f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:53 GMT"
+                            },
+                            "name": "Nightsky - 47.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "2J3bMyCOBogBCeQJAluHX",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/ea6015a00aac46fca01dc394d3c53e40/original/Nightsky---48.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#2c4481",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:54 GMT"
+                            },
+                            "name": "Nightsky - 48.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "RrG1gBQMouthG4-1uFuO1",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/4c01d273d55646748020cc187dd5ccd4/original/Nightsky---49.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#2f3f7f",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:56 GMT"
+                            },
+                            "name": "Nightsky - 49.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "azI6Pv74n8Cmt_ui2ddt3",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/theme_images/standard/a827da6baf2c4c97b35cc95bd4caa1e3/original/Nightsky---50.jpg",
+                            "meta": {
+                                "width": 4096,
+                                "height": 4096,
+                                "colorspace": "sRGB",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#3658a4",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2024/01/26 23:55:56 GMT"
+                            },
+                            "name": "Nightsky - 50.jpg",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "szwQwJpoNzpc7YJ4SRQEH",
+                        "originalSource": "image.custom"
+                    }
+                ],
+                "secondaryAccentColors": [
+                    "#243799",
+                    "#000024",
+                    "#000030"
+                ]
+            },
+            "priority": 478,
+            "previewUrl": "https://assets.api.gamma.app/themes/preview/v1/r6wr129key5j7c4/5b4181f6a5cf36c8632f92881f3d96c17d17e3bf",
+            "archived": false,
+            "createdTime": "2026-10-09T18:43:11.211Z",
+            "updatedTime": "2026-10-09T18:43:11.211Z",
+            "fonts": [
+                {
+                    "id": "Roboto",
+                    "name": "Roboto",
+                    "url": "https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap",
+                    "__typename": "ThemeFont"
+                }
+            ],
+            "__typename": "Theme",
+            "createdBy": {
+                "id": "4qcdcxebu5k957i",
+                "displayName": "Stijn Dhondt",
+                "email": "stijndhondt@gmail.com",
+                "profileImageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKuzyompOK2we9nVKDYwSdWwaZ3PuItY6EQQx2X3hdGiDQ4Kw=s96-c",
+                "__typename": "User"
+            },
+            "docCount": 0,
+            "siteCount": 0
+        }
+    }
+}

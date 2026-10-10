@@ -1,0 +1,394 @@
+{
+    "data": {
+        "theme": {
+            "id": "oah36sm7i4tw3uv",
+            "workspaceId": "rg3za72n0aqixky",
+            "name": "Untitled theme",
+            "headingFont": "Bricolage Grotesque",
+            "headingFontWeight": 800,
+            "bodyFont": "Montserrat",
+            "bodyFontWeight": 400,
+            "accentColor": null,
+            "logoUrl": null,
+            "config": {
+                "keywords": {
+                    "tone": [
+                        "playful",
+                        "friendly",
+                        "simple",
+                        "clean",
+                        "bold",
+                        "modern",
+                        "high tech",
+                        "futuristic",
+                        "young",
+                        "fresh",
+                        "creative"
+                    ],
+                    "color": [
+                        "gradient",
+                        "dark",
+                        "navy",
+                        "periwinkle blue",
+                        "blue",
+                        "indigo",
+                        "lilac",
+                        "purple blue",
+                        "light purple",
+                        "black"
+                    ]
+                },
+                "accentCut": "wiggle",
+                "bodyColor": {
+                    "type": "solid",
+                    "color": "#e5dce6"
+                },
+                "cardColor": {
+                    "type": "solid",
+                    "color": "#090E3F"
+                },
+                "shapeFill": "solid",
+                "themeBase": "glass",
+                "background": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#282d5e"
+                    },
+                    "source": "color.solid",
+                    "gradient": {
+                        "css": {
+                            "backgroundImage": "radial-gradient(circle at 0% 0%, #0b28ff80 0, #0b28ff00 50%),radial-gradient(circle at 14.72257432152649% 47.08386148228974%, #7182ff80 0, #7182ff00 82.36128716076325%),radial-gradient(circle at 29.44514864305298% 44.16772296457948%, #d7dcff80 0, #d7dcff00 64.7225743215265%),linear-gradient(0deg, #0b28ff80 0%, #0b28ff80 100%)"
+                        },
+                        "vibe": "mono",
+                        "primaryColor": "#0b28ff"
+                    }
+                },
+                "cardBorder": "none",
+                "cardShadow": "hard",
+                "shapeBorder": "none",
+                "shapeColors": [
+                    {
+                        "type": "solid",
+                        "color": "#eeaef6"
+                    }
+                ],
+                "shapeShadow": "none",
+                "stylePrompt": "Bold and futuristic with a playful, modern edge. A cool, dark gradient palette of navy, indigo, periwinkle, lilac, and black creates a clean, high-tech look that feels young, fresh, and creatively charged.",
+                "headingColor": {
+                    "type": "solid",
+                    "color": "#eeaef6"
+                },
+                "primaryColor": {
+                    "type": "solid",
+                    "color": "#EEAEF6"
+                },
+                "cardBackground": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#000018"
+                    }
+                },
+                "cardBorderColor": {
+                    "type": "solid",
+                    "color": "#eeaef6"
+                },
+                "secondaryColors": [
+                    {
+                        "type": "solid",
+                        "color": "#243799"
+                    },
+                    {
+                        "type": "solid",
+                        "color": "#091158"
+                    },
+                    {
+                        "type": "solid",
+                        "color": "#000030"
+                    }
+                ],
+                "cardTransparency": "default",
+                "shapeColorScheme": "default",
+                "accentBackgrounds": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/8ece6f94df46474c84ef4d00b9374611/original/Luna-1.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "rvfoW6rzY_jV8HFx1lC2KM01eNmAkW_W",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#171950",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:05 GMT"
+                            },
+                            "name": "Luna 1.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "VHRLeeLm2BWW45H1f2GT3",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/ec4d4d4e4791432b9d44990c0be05a6a/original/Luna-2.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "AxawQ8elxeqJNepEcybeeexCdPrFkrLo",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0f1243",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:04 GMT"
+                            },
+                            "name": "Luna 2.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "t8yVq87Awc9CrXP813Wjs",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/8dfe5ee952814014ac98ede29c8ce1ae/original/Luna-3.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "HXvV7n3niX._JlEg8egRMNwXx5ze_bz4",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#15174d",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:06 GMT"
+                            },
+                            "name": "Luna 3.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "k62_29dHXaLhZmQiuo549",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/3c0e7ea16cb74ac98a54bc308d9c432c/original/Luna-4.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "3zs23667VnJE3xzsSwlrDqPlFmMOi1sO",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0f1244",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:06 GMT"
+                            },
+                            "name": "Luna 4.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "lysueaqY1aj50SuCSdakE",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/cdbab7b9f4c54810a583d91fa074d5ef/original/Luna-5.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "e8DiV4o7q213FOk9cMEBBOL4xBk1JaF9",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0e1141",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:06 GMT"
+                            },
+                            "name": "Luna 5.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "x3IBe5H-KeyUFtwb6DX0o",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/c3a3c776825143548bddee653dee9f7f/original/Luna-7.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "i1EmXA3AQUJQZfZAjzw2uCKWcANWFW4M",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0f1244",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:06 GMT"
+                            },
+                            "name": "Luna 7.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "mvRnpJfmYSLT-vLnwGuxD",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/fcd6beea736e499f99db3b5a4955f4fe/original/Luna-8.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "d.lsQlngHPbaeU8WILXRcEox7a2GGn4r",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0f1244",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:04 GMT"
+                            },
+                            "name": "Luna 8.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "nvkR0YTcKrV_txlxSzhRG",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/4007c72d1eb741748bb66be548364acf/original/Luna-9.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "TsUAnH33uI8Rsm1QRUz2eo1bzFvS07mI",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#0e1142",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:04 GMT"
+                            },
+                            "name": "Luna 9.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "2zBHjK6u-TVrw7pB-gNlg",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/d81bef7693e641a29cc56271ba155281/original/Luna-56.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "dkD56lp3BPb3dizSYJqelOrgjDHhpC4p",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#101345",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/05/01 03:37:04 GMT"
+                            },
+                            "name": "Luna 56.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "zeECt9awPgMZlyfH-lp9z",
+                        "originalSource": "image.custom"
+                    }
+                ],
+                "secondaryAccentColors": [
+                    "#243799",
+                    "#000024",
+                    "#000030"
+                ],
+                "disableReadabilityAdjustment": true
+            },
+            "priority": 478,
+            "previewUrl": "https://assets.api.gamma.app/themes/preview/v1/oah36sm7i4tw3uv/c798555cb959ab991855fff94b526a1122be3a25",
+            "archived": false,
+            "createdTime": "2026-10-09T18:41:25.075Z",
+            "updatedTime": "2026-10-09T18:41:25.075Z",
+            "fonts": [
+                {
+                    "id": "Bricolage Grotesque",
+                    "name": "Bricolage Grotesque",
+                    "url": "https://fonts.googleapis.com/css2?family=Bricolage%20Grotesque:wght@200;300;400;500;600;700;800&display=swap",
+                    "__typename": "ThemeFont"
+                },
+                {
+                    "id": "Montserrat",
+                    "name": "Montserrat",
+                    "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap",
+                    "__typename": "ThemeFont"
+                }
+            ],
+            "__typename": "Theme",
+            "createdBy": {
+                "id": "4qcdcxebu5k957i",
+                "displayName": "Stijn Dhondt",
+                "email": "stijndhondt@gmail.com",
+                "profileImageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKuzyompOK2we9nVKDYwSdWwaZ3PuItY6EQQx2X3hdGiDQ4Kw=s96-c",
+                "__typename": "User"
+            },
+            "docCount": 0,
+            "siteCount": 0
+        }
+    }
+}

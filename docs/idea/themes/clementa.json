@@ -1,0 +1,384 @@
+{
+    "data": {
+        "theme": {
+            "id": "314wsoaxnma82gj",
+            "workspaceId": "rg3za72n0aqixky",
+            "name": "Clementa",
+            "headingFont": "Marcellus",
+            "headingFontWeight": 400,
+            "bodyFont": "Montserrat",
+            "bodyFontWeight": 400,
+            "accentColor": null,
+            "logoUrl": null,
+            "config": {
+                "fontSize": 1,
+                "keywords": {
+                    "tone": [
+                        "Warm",
+                        "retro",
+                        "grounded",
+                        "bold",
+                        "optimistic",
+                        "professional",
+                        "nostalgic",
+                        "earthy"
+                    ],
+                    "color": [
+                        "pumpkin orange",
+                        "chocolate brown",
+                        "golden tan",
+                        "burnt umber",
+                        "cream",
+                        "warm beige"
+                    ]
+                },
+                "accentCut": "round",
+                "bodyColor": {
+                    "type": "solid",
+                    "color": "#67534f"
+                },
+                "cardColor": {
+                    "type": "solid",
+                    "color": "#fffff4"
+                },
+                "roundness": "md",
+                "shapeFill": "none",
+                "background": {
+                    "type": "color",
+                    "color": {
+                        "hex": "#dec8ab"
+                    },
+                    "image": {
+                        "src": "https://cdn.gamma.app/rg3za72n0aqixky/b8a2ee6b1e174e6e9fd5d1945fdc1e36/original/jonsina_1112_Vertical_flame_pillar_bursting_with_cosmic_energy__c8ca838f-cd7c-47fb-af35-7e7b3d918f34-darkeneed.png",
+                        "meta": {
+                            "width": 1632,
+                            "height": 2912,
+                            "colorspace": "sRGB",
+                            "version_id": "MiP0qlP7fWuciBCY0mlIMmvfPQsdJUCW",
+                            "frame_count": 1,
+                            "aspect_ratio": 0.56,
+                            "average_color": "#200a04",
+                            "has_transparency": false,
+                            "has_clipping_path": false,
+                            "date_file_modified": "2025/08/28 00:21:54 GMT"
+                        },
+                        "name": "jonsina_1112_Vertical_flame_pillar_bursting_with_cosmic_energy__c8ca838f-cd7c-47fb-af35-7e7b3d918f34-darkeneed.png",
+                        "source": "image.custom",
+                        "uploadStatus": 0,
+                        "showPlaceholder": false,
+                        "uploadResultStep": "optimized"
+                    },
+                    "source": "color.solid"
+                },
+                "cardBorder": "none",
+                "cardShadow": "default",
+                "shapeBorder": "md",
+                "shapeColors": [
+                    {
+                        "type": "solid",
+                        "color": "#77C9EB"
+                    }
+                ],
+                "shapeShadow": "none",
+                "stylePrompt": "Warm and energetic with a retro-inspired palette of pumpkin orange, chocolate brown, and golden tan. Set against soft cream, the look is grounded yet bold, combining professional clarity with nostalgic vibrancy and a sunny, essential tone.",
+                "headingColor": {
+                    "type": "solid",
+                    "color": "#532418"
+                },
+                "primaryColor": {
+                    "type": "solid",
+                    "color": "#ff954f"
+                },
+                "lineHeightBody": 1.3,
+                "buttonRoundness": "md",
+                "cardBorderColor": {
+                    "type": "solid",
+                    "color": "#a6d3ff"
+                },
+                "headingFontSize": 1.15,
+                "secondaryColors": [
+                    {
+                        "type": "solid",
+                        "color": "#241512"
+                    },
+                    {
+                        "type": "solid",
+                        "color": "#532418"
+                    },
+                    {
+                        "type": "solid",
+                        "color": "#7d3e2c"
+                    },
+                    {
+                        "type": "solid",
+                        "color": "#fffff5"
+                    },
+                    {
+                        "type": "solid",
+                        "color": "#faf1dc"
+                    },
+                    {
+                        "type": "solid",
+                        "color": "#dfc8ab"
+                    },
+                    {
+                        "type": "solid",
+                        "color": "#cc5200"
+                    }
+                ],
+                "cardTransparency": "frosted",
+                "shapeColorScheme": "accent",
+                "accentBackgrounds": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/7951920ea2f9437eb2f67b9e8262b1a2/original/5.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "PuaQgUYob_4FgNIi_WxdjBPyNZpIwlxP",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#b97a75",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/09/11 02:59:41 GMT"
+                            },
+                            "name": "5.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "UOk2O-m6yAQRU3Qrsvx_o",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/85a7437f15b5410ea859fb3621afa43b/original/6.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "sLcJwYvV7zwQyirNh1zfEc608QZe.Mt_",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#b2807b",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/09/11 02:59:39 GMT"
+                            },
+                            "name": "6.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "sE8alpAsP69PodrD9oqrR",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/d87296737a6f4623ab026fb31227193e/original/7.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "BhpSQGOj.uEg_Bz.hax5ocIExuHTPcBV",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#d07d76",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/09/11 02:59:44 GMT"
+                            },
+                            "name": "7.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "j9L5Hmubn9xeNb2QP_n_k",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/e8ec13d8a9ab44fe8a6ac7fbcb3e79b9/original/8.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "SZW6rfEM9ck3J0L04q.NIS8J0bI.D4oS",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#b75e48",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/09/11 02:59:44 GMT"
+                            },
+                            "name": "8.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "wYWuzDXSmOJkBrQSIhVcd",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/1eccee974fc54f7ba151c0e7c21725c9/original/1.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "4emNpbp1uYW2T2hRlqgOJI3uuLNT6oe7",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#c9644b",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/09/11 02:59:42 GMT"
+                            },
+                            "name": "1.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "3_kK5r5-qv8ZMckgghcrm",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/7c2463bdfe9741098492c7087f0d6714/original/2.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "WuEQHLg_jRuFIPU8a3SGtYFphpC7Xeko",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#d46954",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/09/11 02:59:39 GMT"
+                            },
+                            "name": "2.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "x5TI1faHS5qDxSLddeuD5",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/af30018478134a04aade5aebdd972536/original/3.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "jOz13Xuob88eWdTLn2AmA23kGRkNjP1k",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#cc5b40",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/09/11 02:59:38 GMT"
+                            },
+                            "name": "3.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "ejRNOw9Z6Gg3bUoecO9aQ",
+                        "originalSource": "image.custom"
+                    },
+                    {
+                        "type": "image",
+                        "image": {
+                            "src": "https://cdn.gamma.app/rg3za72n0aqixky/0236b0c29acc4b7ba8f6e097a8d3cfb1/original/4.jpg",
+                            "meta": {
+                                "width": 2048,
+                                "height": 2048,
+                                "copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+                                "colorspace": "RGB",
+                                "version_id": "pDG2DOmwtkwmaynD9R1RvvrXWlQUPaLZ",
+                                "frame_count": 1,
+                                "aspect_ratio": 1,
+                                "average_color": "#d57255",
+                                "has_transparency": false,
+                                "has_clipping_path": false,
+                                "date_file_modified": "2025/09/11 02:59:40 GMT"
+                            },
+                            "name": "4.jpg",
+                            "source": "image.custom",
+                            "uploadStatus": 0,
+                            "showPlaceholder": false,
+                            "uploadResultStep": "optimized"
+                        },
+                        "source": "accent.theme",
+                        "accentId": "PjliOlUyEZErw8VQWzkUW",
+                        "originalSource": "image.custom"
+                    }
+                ],
+                "lineHeightHeading": 1.3,
+                "letterSpacingHeading": -0.01,
+                "disableReadabilityAdjustment": true
+            },
+            "priority": 538,
+            "previewUrl": "https://assets.api.gamma.app/themes/preview/v1/314wsoaxnma82gj/3aa201d3c8e47495559f68d0fde50e89a8ea7c2e",
+            "archived": false,
+            "createdTime": "2026-10-09T18:36:24.851Z",
+            "updatedTime": "2026-10-09T18:36:24.851Z",
+            "fonts": [
+                {
+                    "id": "Marcellus",
+                    "name": "Marcellus",
+                    "url": "https://fonts.googleapis.com/css2?family=Marcellus:wght@400&display=swap",
+                    "__typename": "ThemeFont"
+                },
+                {
+                    "id": "Montserrat",
+                    "name": "Montserrat",
+                    "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap",
+                    "__typename": "ThemeFont"
+                }
+            ],
+            "__typename": "Theme",
+            "createdBy": {
+                "id": "4qcdcxebu5k957i",
+                "displayName": "Stijn Dhondt",
+                "email": "stijndhondt@gmail.com",
+                "profileImageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKuzyompOK2we9nVKDYwSdWwaZ3PuItY6EQQx2X3hdGiDQ4Kw=s96-c",
+                "__typename": "User"
+            },
+            "docCount": 0,
+            "siteCount": 0
+        }
+    }
+}
