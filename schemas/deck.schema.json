@@ -635,8 +635,73 @@
             "triangle"
           ]
         },
+        "endpoints": {
+          "type": "object",
+          "required": [
+            "start",
+            "end"
+          ],
+          "properties": {
+            "start": {
+              "$ref": "#/$defs/normalizedPoint"
+            },
+            "end": {
+              "$ref": "#/$defs/normalizedPoint"
+            }
+          },
+          "additionalProperties": false
+        },
         "extensions": {
           "$ref": "#/$defs/extensions"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "shapeType": {
+                "enum": [
+                  "line",
+                  "arrow"
+                ]
+              }
+            },
+            "required": [
+              "shapeType"
+            ]
+          },
+          "then": {
+            "required": [
+              "endpoints"
+            ]
+          },
+          "else": {
+            "not": {
+              "required": [
+                "endpoints"
+              ]
+            }
+          }
+        }
+      ],
+      "additionalProperties": false
+    },
+    "normalizedPoint": {
+      "type": "object",
+      "required": [
+        "x",
+        "y"
+      ],
+      "properties": {
+        "x": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "y": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
         }
       },
       "additionalProperties": false
@@ -664,8 +729,10 @@
         },
         "rows": {
           "type": "array",
+          "minItems": 1,
           "items": {
             "type": "array",
+            "minItems": 1,
             "items": {
               "$ref": "#/$defs/tableCell"
             }
@@ -728,6 +795,7 @@
         },
         "categories": {
           "type": "array",
+          "minItems": 1,
           "items": {
             "type": [
               "string",
@@ -737,6 +805,7 @@
         },
         "series": {
           "type": "array",
+          "minItems": 1,
           "items": {
             "type": "object",
             "required": [
@@ -761,6 +830,27 @@
           "$ref": "#/$defs/extensions"
         }
       },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "chartType": {
+                "const": "pie"
+              }
+            },
+            "required": [
+              "chartType"
+            ]
+          },
+          "then": {
+            "properties": {
+              "series": {
+                "maxItems": 1
+              }
+            }
+          }
+        }
+      ],
       "additionalProperties": false
     },
     "externalResourceElement": {
@@ -794,7 +884,8 @@
         "url": {
           "type": "string",
           "format": "uri",
-          "pattern": "^https://(?!:)[^/@?#]+(?:/[^?#]*)?$"
+          "description": "Credential-free HTTPS URI with a non-empty authority; user information, queries, and fragments are not allowed.",
+          "pattern": "^https://(?!:)(?![^/?#]*@)[^/?#]+(?:/[^?#]*)?$"
         },
         "provider": {
           "type": "string",
